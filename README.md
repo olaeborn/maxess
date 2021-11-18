@@ -1,2 +1,2 @@
-# maxess
-Official MaxEss Repository
+# MaxEss
+Welcome to MaxEss Repository
